@@ -138,7 +138,7 @@ Project documentation
 ## 7. Product Link / Demo
 GitHub Repository:
 
-(https://github.com/songpudong/Stock-Analysis-Tool)
+https://github.com/songpudong/Stock-Analysis-Tool-
 
 Demo Video:
 
